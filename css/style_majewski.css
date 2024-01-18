@@ -188,7 +188,7 @@ footer {
     .container {
         display: flex;
         flex-direction: column;
-        width: 90%;
+        width: 100%;
     }
 
     #main {
@@ -198,6 +198,7 @@ footer {
 
     aside {
         order: 2;
+        width: 100%;
     }
 
     header {
